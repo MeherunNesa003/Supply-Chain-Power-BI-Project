@@ -63,4 +63,5 @@ Supplier Strategy – Compare suppliers by profit margin and defect rate for bet
 Demand Planning – Spot high-revenue products (skincare dominates) and adjust stock levels accordingly.
 Quality Control – Monitor defect rates by product type and supplier for continuous improvement.
 Customer Segmentation – Revenue breakdown by demographics enables targeted marketing strategies.
-Screenshots of this project 
+
+Screenshots of this project https://github.com/MeherunNesa003/Supply-Chain-Power-BI-Project/blob/main/Supply%20Chain%20Project%202.pdf
